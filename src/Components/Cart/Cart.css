@@ -1,0 +1,19 @@
+.cart {
+    position: sticky;
+    top: 80px;
+    padding: 30px 20px;
+}
+
+.btn-clear {
+    width: 200px;
+    height: 50px;
+    background: #FF3030;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+.btn-clear p {
+    margin: 0;
+    font-size: 20px;
+}

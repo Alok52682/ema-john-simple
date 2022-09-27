@@ -1,0 +1,25 @@
+.header {
+    background-color: #1C2B35;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar {
+    width: 90%;
+    margin: auto;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbuttons a {
+    color: #FFFFFF;
+    text-decoration: none;
+    margin-left: 2rem;
+}
+
+.navbuttons a:hover {
+    color: orange;
+}
